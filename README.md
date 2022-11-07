@@ -14,9 +14,9 @@ Hi there, my name is Patience. Welcome to my Readme! 👋
 
 <h3 align="center">What I’m currently working on? <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"/></h3>
 <ul>
-<li>Currenty I am creating a web page using HTML and CSS. You can find this web page in my repositories.</li>
-<li>Command line</li>
-<li>GitHub</li>
+<li>Currenty I am creating my portfolio, it is a work in progress. I am adding to it as I learn. you can find this it here: <a href="https://patience-hodzi.netlify.app/"></li>
+<li>JavaScript</li>
+<li>REACT</li>
 </ul>
 
 <h3 align="center">What I’m currently learning?</h3>
