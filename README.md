@@ -15,7 +15,7 @@ Hi there, my name is Patience. Welcome to my Readme! 👋
 <h3 align="center">What I’m currently working on? <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"/></h3>
 <ul>
 <li>Currenty I am creating my portfolio, it is a work in progress. I am adding to it as I learn. you can find this it below.</li> 
-<li>Portfolio<a href="https://patience-hodzi.netlify.app/"></li>
+<li><a href="https://patience-hodzi.netlify.app/">Portfolio</a></li>
 <li>JavaScript</li>
 <li>REACT</li>
 </ul>
