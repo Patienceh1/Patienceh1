@@ -16,8 +16,8 @@ Hi there, my name is Patience. Welcome to my Readme! 👋
 <ul>
 <li>Currenty I am creating my Portfolio, it is a work in progress. I am adding to it as I learn. You can find it below:</li> 
 <li><a href="https://patience-hodzi.netlify.app/">Portfolio</a></li>
-<li>JavaScript</li>
-<li>REACT</li>
+  <li><a href="https://elegant-tartufo-db20c3.netlify.app/">JavaScript</a></li>
+  <li><a href="https://marvelous-tapioca-04fac4.netlify.app">REACT</a></li>
 </ul>
 
 <h3 align="center">What I’m currently learning?</h3>
